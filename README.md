@@ -94,3 +94,5 @@ As best practice at Quantium, we like to use the “Pyramid Principles” framew
 
 
 For this report, we need to include data visualisations, key callouts, insights as well as recommendations and/or next steps.
+
+![Screenshot (60)](https://user-images.githubusercontent.com/86102231/138444190-910c1858-5b1f-492a-a5e1-01b21a38325f.png)

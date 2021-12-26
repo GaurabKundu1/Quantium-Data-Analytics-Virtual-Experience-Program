@@ -78,7 +78,7 @@ Create a measure to compare different control stores to each of the trial stores
 Once you have selected your control stores, compare each trial and control pair during the trial period. You want to test if total sales are significantly different in the trial period and if so, check if the driver of change is more purchasing customers or more purchases per customers etc.
 
 
-## Task 3 Analytics and commercial application
+## [Task 3 Analytics and commercial application](https://docs.google.com/document/d/1UxzBC1GWiHQBSgQP49VWaieTUGTSbF5A/edit?usp=sharing&ouid=113907451729758661404&rtpof=true&sd=true)
 
 ### Background information of the task
 Task 3 is targeted specifically at building your ability to recognise commercial, actionable insights from your analysis and displaying it in a clear and concise way for your client, with minimal jargon. At Quantium, our analyst graduates sometimes work as what we like to call “hybrids” (a mix of analyst and consultant duties) so developing your presentation skills early is a huge win!

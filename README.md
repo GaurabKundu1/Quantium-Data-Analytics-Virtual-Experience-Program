@@ -4,7 +4,7 @@ Quantium has had a data partnership with a large supermarket brand for the last 
 Supermarkets will regularly change their store layouts, product selections, prices and promotions. This is to satisfy their customer’s changing needs and preferences, keep up with the increasing competition in the market or to capitalise on new opportunities. The Quantium analytics team are engaged in these processes to evaluate and analyse the performance of change and recommend whether it has been successful. 
 
 
-## Task 1 Data preparation and customer analytics
+## [Task 1 Data preparation and customer analytics](https://github.com/GaurabKundu1/Quantium-Data-Analytics-Virtual-Experience-Program/tree/main/Task%201)
 
 ### Background information of the task
 You are part of Quantium’s retail analytics team and have been approached by your client, the Category Manager for Chips, who wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.

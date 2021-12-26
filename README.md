@@ -40,7 +40,7 @@ Zilinka'
 We need to present a strategic recommendation to Julia that is supported by data which she can then use for the upcoming category review however to do so we need to analyse the data to understand the current purchasing trends and behaviours. The client is particularly interested in customer segments and their chip purchasing behaviour. Consider what metrics would help describe the customers’ purchasing behaviour.  
 
 
-## Task 2 Experimentation and uplift testing
+## [Task 2 Experimentation and uplift testing](https://github.com/GaurabKundu1/Quantium-Data-Analytics-Virtual-Experience-Program/tree/main/Task%202)
 
 ### Background information of the task
 You are part of Quantium’s retail analytics team and have been approached by your client, the Category Manager for Chips, has asked us to test the impact of the new trial layouts with a data driven recommendation to whether or not the trial layout should be rolled out to all their stores.
